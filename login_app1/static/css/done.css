@@ -1,0 +1,7 @@
+body1 {
+    background-image: url('templates/logo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
